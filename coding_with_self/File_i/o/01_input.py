@@ -1,0 +1,5 @@
+f = open("C:\Users\ht422\OneDrive\Documents\Desktop\-------\Python\coding_with_self\Ditionaryandsets.py\01_dic.py" , "r")
+data = f.read()
+print(data)
+print(type(data))
+f.close()
